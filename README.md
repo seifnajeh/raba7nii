@@ -1,4 +1,4 @@
-# raba7nii
+# Raba7ni
 Raba7ni is a mobile app designed to provide users with a fun and engaging gaming experience while also giving them the opportunity to earn points and redeem them for items in the app's store. The app features a variety of different games, including a wheel-spinning game, a dice game, and various slot games, each with their own unique gameplay mechanics and chances to win points.
 
 In the wheel-spinning game, users will have the chance to spin a wheel and win a variety of prizes, including bonus points, items from the app's store, and more. The dice game, on the other hand, will challenge users to roll the dice and try to get the highest possible score, with each successful roll earning them points that can be redeemed for rewards.
